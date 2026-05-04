@@ -30,6 +30,17 @@ This curriculum provides a structured learning path:
 
 ---
 
+## How to Use This Repository
+
+Each unit contains:
+- slide decks as PDFs
+- guided Jupyter Notebooks
+- activities and mini-projects
+
+The notebooks are designed to run in Jupyter Notebook, Google Colab, or GitHub Codespaces.
+
+---
+
 ### Unit 1: Foundations
 - Introduction to data science concepts
 - Git, GitHub, and Jupyter Notebooks
@@ -73,6 +84,19 @@ In the Unit 1 mini-project, students:
 
 This project introduces a simplified data pipeline:
 Raw Text → Cleaning → Structuring → Analysis → Insight
+
+## Featured Project: Student Performance Analyzer
+
+Students act as data analysts for a school and use Python to evaluate student performance data.
+
+The project uses:
+- lists and dictionaries
+- loops
+- conditionals
+- functions
+- basic metrics and interpretation
+
+Students classify students as "On Track" or "At Risk," calculate the percentage of at-risk students, and reflect on how the analysis could support real-world decision-making.
 
 ---
 
