@@ -29,6 +29,7 @@ This project demonstrates:
 
 [View the project overview](mini-projects/student-performance-analyzer/Student_Performance_Analyzer_slides.pdf)
 
+---
 
 ## Problem
 
@@ -44,6 +45,9 @@ This curriculum was designed to address that gap by:
 ## Solution
 
 This curriculum provides a structured learning path:
+
+<img width="276" height="336" alt="Screenshot 2026-05-05 at 2 06 53 PM" src="https://github.com/user-attachments/assets/736f14c2-d6a5-4e6f-bb62-eace8d2872bf" />
+
 
 ---
 
