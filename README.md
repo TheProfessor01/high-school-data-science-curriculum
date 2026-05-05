@@ -25,9 +25,9 @@ This project demonstrates:
 - calculating the percentage of students classified as “At Risk”
 - communicating insights from data
 
-[View the notebook](mini-projects/student-performance-analyzer/student-performance-analyzer_notebook.ipynb)
+[View the notebook](mini-projects/student-performance-analyzer/Student_Performance_Analyzer_notebook.ipynb)
 
-[View the project overview](mini-projects/student-performance-analyzer/student-performance-analyzer_slides.pdf)
+[View the project overview](mini-projects/student-performance-analyzer/Student_Performance_Analyzer_slides.pdf)
 
 
 ## Problem
