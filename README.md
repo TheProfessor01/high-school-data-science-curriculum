@@ -12,6 +12,23 @@ The course emphasizes:
 Rather than focusing on theory alone, students learn by building, debugging, and analyzing data through guided projects.
 
 ---
+## Featured Project: Student Performance Analyzer
+
+Students act as data analysts for a school and use Python to analyze student performance data.
+
+This project demonstrates:
+
+- working with structured data using lists and dictionaries
+- applying conditional logic
+- building reusable functions
+- looping through records
+- calculating the percentage of students classified as “At Risk”
+- communicating insights from data
+
+[View the notebook](mini-projects/student-performance-analyzer/student-performance-analyzer_notebook.ipynb)
+
+[View the project overview](mini-projects/student-performance-analyzer/student-performance-analyzer_slides.pdf)
+
 
 ## Problem
 
@@ -72,7 +89,7 @@ This unit emphasizes the transition from learning Python to using Python as a pr
 
 ---
 
-## Featured Project: Text Analysis
+## Additional Project: Text Analysis
 
 In the Unit 1 mini-project, students:
 
@@ -84,19 +101,6 @@ In the Unit 1 mini-project, students:
 
 This project introduces a simplified data pipeline:
 Raw Text → Cleaning → Structuring → Analysis → Insight
-
-## Featured Project: Student Performance Analyzer
-
-Students act as data analysts for a school and use Python to evaluate student performance data.
-
-The project uses:
-- lists and dictionaries
-- loops
-- conditionals
-- functions
-- basic metrics and interpretation
-
-Students classify students as "On Track" or "At Risk," calculate the percentage of at-risk students, and reflect on how the analysis could support real-world decision-making.
 
 ---
 
